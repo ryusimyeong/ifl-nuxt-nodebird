@@ -1,0 +1,15 @@
+{
+  "name": "nuxt-nodebird-front",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nuxt"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nuxt": "^2.8.1",
+    "vue": "^2.6.12"
+  }
+}
