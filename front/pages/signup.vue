@@ -1,9 +1,15 @@
 <template>
-  <div>SIGN UP</div>
+  <div>
+    <div>SIGNUP PAGE</div>
+  </div>
 </template>
 
 <script>
-export default {};
+export default {
+  head: {
+    title: "회원가입",
+  },
+};
 </script>
 
 <style>

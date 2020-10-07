@@ -1,9 +1,15 @@
 <template>
-  <div>Hello Nuxt</div>
+  <div>
+    <div>HOME PAGE</div>
+  </div>
 </template>
 
 <script>
-export default {};
+export default {
+  // head: {
+  //     title: "메인",
+  // },
+};
 </script>
 
 <style>
